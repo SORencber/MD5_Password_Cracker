@@ -34,7 +34,7 @@ namespace PasswordCracker
 
             if (File.Exists(fileName))
             {
-                Console.WriteLine("File not found ");
+                Console.WriteLine("File is found ");
             }
             else
             {
